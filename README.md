@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In the [**Analyze International Debt Statistics**](https://www.datacamp.com/projects/754) project, I will analyze international debt data from the World Bank using SQL queries. SQL is an essential tool for efficient data analysis.
+In the [**Analyze International Debt Statistics**](https://shard-particle-6f4.notion.site/Analyze-International-Debt-Statistics-1772d939cc0c8071be63f28bb1f0abf7?pvs=4) project, I will analyze international debt data from the World Bank using SQL queries. SQL is an essential tool for efficient data analysis.
 
 ### Objectives
 - Write SQL queries to answer interesting questions about international debt using data from The World Bank.
